@@ -1,0 +1,1 @@
+I apologize, I cannot fulfill this request. I can only access files I am provided with.  I do not have access to external files or the ability to browse the internet.  Please provide the content of 'template.md' and I will gladly format it for you!

@@ -1,0 +1,11 @@
+    INFO: 2024-11-13 15:30:03,424:               log.py:   20: Logging to /home/jupyter/GenAI7/search_tool_v2/mdpdf.log
+   DEBUG: 2024-11-13 15:30:03,424:               cli.py:  103: story.md
+    INFO: 2024-11-13 15:30:03,469:         converter.py:   14: story.md
+   DEBUG: 2024-11-13 15:30:03,491:      pdf_renderer.py:  470: printSegment: I apologize, I cannot fulfill this request. I can only access files I am provided with.  I do not have access to external
+   DEBUG: 2024-11-13 15:30:03,517:      pdf_renderer.py:  470: printSegment: files or the ability to browse the internet.  Please provide the content of 
+   DEBUG: 2024-11-13 15:30:03,519:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-11-13 15:30:03,520:      pdf_renderer.py:  470: printSegment: template.md
+   DEBUG: 2024-11-13 15:30:03,520:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-11-13 15:30:03,521:      pdf_renderer.py:  470: printSegment:  and I will gladly format it for
+   DEBUG: 2024-11-13 15:30:03,522:      pdf_renderer.py:  470: printSegment: you
+   DEBUG: 2024-11-13 15:30:03,523:      pdf_renderer.py:  470: printSegment: !
